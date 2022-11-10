@@ -3,7 +3,7 @@ Watchuru is a platform that provide variety of movies. Movies which worth to wat
 
 Technologies used:
 
-1-Java.
+1-Java
 2-Microservices
 3-Spring boot
 4-Spring Cloud
