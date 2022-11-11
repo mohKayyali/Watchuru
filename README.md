@@ -1,6 +1,10 @@
 # Watchuru
 Watchuru is a platform that provide variety of movies. Movies which worth to watch as they are produced from valuable books and narratives.  
 
+Class Diagram
+
+![alt text](https://1drv.ms/u/s!AlyPpONjJEPisBf1EvKch4O7_r3p?e=GgwYpz)
+
 Technologies used:
 
 1-Java
