@@ -3,7 +3,7 @@ Watchuru is a platform that provide variety of movies. Movies which worth to wat
 
 Class Diagram
 
-!https://1drv.ms/u/s!AlyPpONjJEPisBf1EvKch4O7_r3p?e=GgwYpz
+![alt text](https://github.com/mohKayyali/Watchuru/blob/main/Class%20diagram.png)
 
 Technologies used:
 
